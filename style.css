@@ -83,6 +83,7 @@ button:disabled {
   cursor: not-allowed;
   background: #555b69;
 }
+
 .success,
 .error {
   text-align: center;
